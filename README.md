@@ -1,2 +1,1 @@
-# Hello world
-# Esse é um teste
+# Aprendendo Git com cloud shell
